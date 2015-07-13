@@ -1,0 +1,10 @@
+{
+  "name": "nw-D3 Demo",
+  "main": "index.html",
+  "node-remote": "*.*",
+  "window": {
+    "toolbar": false,
+    "width": 1000,
+    "height": 500
+  }
+}
